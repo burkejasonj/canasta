@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runner/canasta/src/Application.cpp
+include/Application.hpp
+/home/runner/canasta/src/include/Application.hpp
+
+/home/runner/canasta/src/include/Application.hpp
+stdio.h
+-
+
