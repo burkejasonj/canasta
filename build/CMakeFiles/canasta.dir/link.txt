@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/canasta.dir/src/Application.cpp.o  -o canasta 

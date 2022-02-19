@@ -1,3 +1,0 @@
-/home/runner/canasta/build/CMakeFiles/rebuild_cache.dir
-/home/runner/canasta/build/CMakeFiles/canasta.dir
-/home/runner/canasta/build/CMakeFiles/edit_cache.dir
