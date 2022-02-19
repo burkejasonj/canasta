@@ -2,9 +2,6 @@
 
 int main(int argc, char** argv)
 {
-  std::ifstream configFile{argv[1]};
-  {
-    
-  }
+  printf("Hello World!\n");
   return 0;
 }
