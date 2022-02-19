@@ -3,4 +3,5 @@
 
 CMakeFiles/canasta.dir/src/Application.cpp.o: ../src/Application.cpp
 CMakeFiles/canasta.dir/src/Application.cpp.o: ../src/include/Application.hpp
+CMakeFiles/canasta.dir/src/Application.cpp.o: ../src/include/json/json.h
 

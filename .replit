@@ -1,2 +1,2 @@
 language = "cpp"
-run = "make /home/runner/canasta/build"
+run = "cmake --build build/ && build/canasta data/default/canasta/BaseGameStorage.json"

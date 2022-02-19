@@ -4,3 +4,4 @@
 CMakeFiles/canasta.dir/src/Application.cpp.o
  /home/runner/canasta/src/Application.cpp
  /home/runner/canasta/src/include/Application.hpp
+ /home/runner/canasta/src/include/json/json.h
