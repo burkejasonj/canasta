@@ -7,4 +7,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED true)
 
 include_directories(src/include)
 
-add_executable(canasta src/Application.cpp)
+add_executable(canasta src/Application.cpp src/include/jsoncpp.cpp)
