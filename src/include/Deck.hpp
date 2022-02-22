@@ -9,10 +9,14 @@ class Deck {
   std::vector<Card::Card> contents;
   int totalCards;
 
-  int addCard();     // Return Position, -1 if fail
-  bool removeCard(); // Return removed card, card is fake joker if fail
-  std::vector<Card::Card> removeAllCards(); // Return removed cards, vector with
-                                            // fake joker only if fail
+  // Return Position, -1 if fail
+  int addCard(Card::Card card);
+
+  // Return removed card, card is fake joker if fail
+  bool removeCard(int index);
+
+  // Return removed cards, vector with fake joker only if fail
+  std::vector<Card::Card> removeAllCards();
 };
 }; // namespace Deck
 
