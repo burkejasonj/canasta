@@ -19,7 +19,7 @@ enum Rank {
   JOKER
 };
 enum Suit { HEARTS, DIAMONDS, SPADES, CLUBS };
-enum Back { BLUE, RED };
+enum Back { RED, YELLOW, GREEN, BLUE };
 
 struct Card {
   Rank rank;
